@@ -1,9 +1,24 @@
-# Quick list of Machine Learning courses and resources.
+# Intro 
+	I put this list together for my local computer club, first draft is rough and ugly. Partly to document my learning path in Machine Learning and partly to help others with an interest in Machine Learning. My main emphasis is on understanding the fundamentals with a few fun examples of cool stuff to learn to make the journey enjoyable and for the proof of skills factor.
+
 ## contributions welcome.
 
-Some leaders in the Machine Learning field you should follow.
+# The Machine Learning List of notables you should follow.
 
-https://www.coursera.org/instructor/rdpeng
+I know this will be debatable. This is still a rough draft, and there are many others I've noticed who have been experts in this field for a long time. So the list is partly a mark of respect to the leaders for their work and noting who is active in the field.
+
+* Andrew NG
+* Geoff Hinton
+*  
+* https://www.coursera.org/instructor/rdpeng
+* Hugo Larochelle
+
+
+# Language and packages to use
+R & Python are the dominant languages. Tensorflow is awesome. I'm leaning towards the fundamentals before moving onto neural networks. That opinion may change. 
+
+# Python
+## scikit-learn 
 
 
 A short list of MOOC's I've found useful. Coursera and Edx offer specialisations which I like for their structured approach.
@@ -37,6 +52,11 @@ Yes, it's a big specialization. Covers a lot of material, not just machine learn
 
 Some courses I'm still to do and reccomended by notable ML leaders.
 
+https://www.coursera.org/learn/neural-networks (Geoff Hinton @ University of Toronto)
+https://www.coursera.org/learn/machine-learning (Stanford )
+
+Excellent youtube resources
+https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
 
 Useful Machine Learning Books.
